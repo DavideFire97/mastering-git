@@ -1,5 +1,3 @@
 console.log('Hello, Git!');
 console.log('Hello, GitHub!');
 console.log('Prova con Revert')
-
-console.log('Prova con Revert2')
